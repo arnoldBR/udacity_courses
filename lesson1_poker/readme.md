@@ -1,6 +1,6 @@
 ## Poker
 
-* Inicia em main.py, melhor maneira de usar é brincando pelo console
+* Para entender o código, iniciar em main.py, melhor maneira de usar é brincando pelo console
 
 Executar:
 ````python
